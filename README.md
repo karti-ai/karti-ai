@@ -79,6 +79,18 @@ I build tools/harnesses that integrate/accelerate AI into real world through age
   <img src="https://img.shields.io/badge/Fireworks-6842F0?style=for-the-badge&logo=fireworks&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Together%20AI-20C997?style=for-the-badge&logo=together&logoColor=white" />
+  <img src="https://img.shields.io/badge/RunPod-7B68EE?style=for-the-badge&logo=runpod&logoColor=white" />
+  <img src="https://img.shields.io/badge/CoreWeave-1a1a1a?style=for-the-badge&logo=coreweave&logoColor=white" />
+</p>
 
 ---
 
