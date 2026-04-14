@@ -33,6 +33,7 @@ I build tools/harnesses that integrate/accelerate AI into real world through age
 - ⚡ **[lumbridgecorp.com](https://lumbridgecorp.com)** — An AI Factory - Compute & Tokens
 
 **Open Source**
+- 🤖 **[karti-code](https://github.com/karti-ai/karti-code)** — OpenCode plugin with custom MCPs (SearXNG, Mattermost, Caddy, Gitea) for AI-powered development workflows
 - 🔬 **[AutoMagically](https://github.com/karti-ai/AutoMagically)** — Fork of Andrej Karpathy's Auto Research
 - 🔍 **[search-mcp-server](https://github.com/karti-ai/search-mcp-server)** — MCP server for web and code search using SearXNG and Grep.app
 - 🦫 **[gitea-mcp-server](https://github.com/karti-ai/gitea-mcp-server)** — MCP server for Gitea
