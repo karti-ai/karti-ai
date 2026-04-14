@@ -33,7 +33,7 @@ I build tools/harnesses that integrate/accelerate AI into real world through age
 - ⚡ **[lumbridgecorp.com](https://lumbridgecorp.com)** — An AI Factory - Compute & Tokens
 
 **Internal Infrastructure** 🔒
-- 🦾 **karti-claw** — Private fork of OpenClaw with multi-instance orchestration, custom agents, and fleet management capabilities *(private repo)*
+- 🦾 **karti-claw** — Heavily modded fork of OpenClaw with multi-instance orchestration, custom agents, and fleet management capabilities *(private repo)*
 
 **Open Source**
 - 🤖 **[karti-code](https://github.com/karti-ai/karti-code)** — OpenCode plugin with custom MCPs (SearXNG, Mattermost, Caddy, Gitea) for AI-powered development workflows
