@@ -17,7 +17,7 @@
 
 ### Hey, I'm Karti 👋
 
-I build agent harnesses and tooling that put AI to work on real engineering problems — and run a quantitative trading desk on the same infrastructure.
+I build agent harnesses and tooling that put AI to work on real engineering problems — and build **115, a personalized trading harness** (an engineering stack wrapped around a human trader) on the same infrastructure.
 
 </div>
 
@@ -73,7 +73,7 @@ I build agent harnesses and tooling that put AI to work on real engineering prob
 ## 🌱 What I'm Doing
 
 - **Building AI-native developer tooling** — agent harnesses & MCP servers
-- **Running an AI-native trading desk** — markets, automated
+- **Building [115](https://115trading.com), a personalized trading harness** — an engineering stack wrapped around the trader
 - **Researching** — LLM reasoning, agentic workflows, and system design
 - **Writing** — sharing learnings on AI-native development *(coming soon)*
 
