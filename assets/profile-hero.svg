@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Karti Tripathi — AI systems engineer</title>
+  <desc id="desc">A dark technical banner showing a recursive system loop from models and evaluations through agents, GPU compute, and production traces.</desc>
+  <defs>
+    <linearGradient id="bg" x1="64" y1="10" x2="1118" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/><stop offset="0.58" stop-color="#0B1E35"/><stop offset="1" stop-color="#102B43"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(930 190) rotate(137) scale(312 292)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#43C7D9" stop-opacity="0.24"/><stop offset="1" stop-color="#43C7D9" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="signal" x1="776" y1="94" x2="1070" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#5EEAD4"/><stop offset="0.54" stop-color="#45A7E8"/><stop offset="1" stop-color="#F2B134"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#B7D5EA" stroke-opacity="0.06"/></pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1200" height="430" rx="28" fill="url(#bg)"/><rect width="1200" height="430" rx="28" fill="url(#grid)"/><rect width="1200" height="430" rx="28" fill="url(#glow)"/>
+  <path d="M0 356C172 304 269 409 455 359C641 309 713 290 897 350C1018 389 1108 370 1200 332V430H0V356Z" fill="#5EEAD4" fill-opacity="0.035"/>
+  <path d="M0 374C165 326 282 415 466 373C644 332 742 310 908 363C1018 398 1118 384 1200 351" stroke="#5EEAD4" stroke-opacity="0.13" stroke-width="2"/>
+  <g transform="translate(68 58)"><rect width="292" height="34" rx="17" fill="#D7F7F3" fill-opacity="0.08" stroke="#99F6E4" stroke-opacity="0.2"/><circle cx="19" cy="17" r="4" fill="#5EEAD4" filter="url(#softGlow)"/><text x="34" y="22" fill="#BCECE7" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600" letter-spacing="1.6">KARTI.AI // SYSTEMS ONLINE</text></g>
+  <text x="68" y="160" fill="#F4F8FC" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="58" font-weight="750" letter-spacing="-2">Karti Tripathi</text>
+  <text x="70" y="205" fill="#B7CADB" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="500">AI infrastructure &amp; forward-deployed engineering</text>
+  <text x="70" y="245" fill="#7F9BB2" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="0.4">models · evals · agent runtimes · GPU compute · realtime systems</text>
+  <g transform="translate(68 296)" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600">
+    <rect width="128" height="42" rx="10" fill="#0C2638" stroke="#5EEAD4" stroke-opacity="0.38"/><text x="64" y="26" fill="#CBF8F1" text-anchor="middle">DISCOVER</text><path d="M140 21H168" stroke="#62849B"/><path d="M164 17L168 21L164 25" stroke="#62849B"/>
+    <rect x="180" width="128" height="42" rx="10" fill="#0C2638" stroke="#5EEAD4" stroke-opacity="0.38"/><text x="244" y="26" fill="#CBF8F1" text-anchor="middle">PROTOTYPE</text><path d="M320 21H348" stroke="#62849B"/><path d="M344 17L348 21L344 25" stroke="#62849B"/>
+    <rect x="360" width="128" height="42" rx="10" fill="#0C2638" stroke="#45A7E8" stroke-opacity="0.48"/><text x="424" y="26" fill="#CDE9FB" text-anchor="middle">EVALUATE</text><path d="M500 21H528" stroke="#62849B"/><path d="M524 17L528 21L524 25" stroke="#62849B"/>
+    <rect x="540" width="128" height="42" rx="10" fill="#0C2638" stroke="#F2B134" stroke-opacity="0.52"/><text x="604" y="26" fill="#F8DB91" text-anchor="middle">OPERATE</text>
+  </g>
+  <g transform="translate(914 211)">
+    <circle r="128" stroke="#7BC4EA" stroke-opacity="0.12"/><circle r="91" stroke="url(#signal)" stroke-width="2.5" stroke-dasharray="7 8"/>
+    <path d="M-3-91A91 91 0 0 1 87-25" stroke="url(#signal)" stroke-width="3" stroke-linecap="round"/><path d="M83-34L88-24L77-22" stroke="#45A7E8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M3 91A91 91 0 0 1-87 25" stroke="url(#signal)" stroke-width="3" stroke-linecap="round"/><path d="M-83 34L-88 24L-77 22" stroke="#F2B134" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle r="46" fill="#0B1A2C" stroke="#6ED8E2" stroke-opacity="0.35"/><text y="-5" fill="#EEF8FC" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700">CLOSE</text><text y="19" fill="#78D6E4" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5">THE LOOP</text>
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" font-weight="650" text-anchor="middle">
+      <circle cx="0" cy="-91" r="7" fill="#5EEAD4" filter="url(#softGlow)"/><text x="0" y="-111" fill="#A8EDE4">MODEL</text>
+      <circle cx="91" cy="0" r="7" fill="#45A7E8" filter="url(#softGlow)"/><text x="91" y="-17" fill="#ADDDF7">AGENT</text>
+      <circle cx="0" cy="91" r="7" fill="#F2B134" filter="url(#softGlow)"/><text x="0" y="116" fill="#F8D989">GPU</text>
+      <circle cx="-91" cy="0" r="7" fill="#7DD3FC" filter="url(#softGlow)"/><text x="-91" y="-17" fill="#B6E7FB">TRACE</text>
+    </g>
+  </g>
+  <g fill="#7D9BB1"><circle cx="1140" cy="58" r="2"/><circle cx="1106" cy="91" r="1.5"/><circle cx="1128" cy="345" r="2"/><circle cx="1048" cy="46" r="1"/><circle cx="759" cy="67" r="1.5"/><circle cx="714" cy="244" r="1"/></g>
+</svg>
