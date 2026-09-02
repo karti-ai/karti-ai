@@ -24,11 +24,11 @@ customer problem → prototype → held-out eval → model / agent → governed 
 
 ## Systems in the loop
 
-### [Karti-Small-RSI-3B](https://huggingface.co/KartiOS/Karti-Small-RSI-3B)
+### Karti-Small Models
 
-A compact local-agent model family for reliable tool calling and offline agent workflows. The public model card includes the pinned foundation, training recipe, evaluation contract, and human-gated improvement loop; private weights and training rows stay private.
+[Karti-Small-RSI-3B](https://huggingface.co/KartiOS/Karti-Small-RSI-3B) targets reliable tool calling and offline agent workflows; [Karti-Small-VL-4B](https://huggingface.co/KartiOS/Karti-Small-VL-4B) adds vision grounding and abstention for unreadable identifiers. The 3B model card publishes its pinned foundation, BF16 LoRA SFT recipe, evaluation contract, and human-gated improvement loop while weights and training rows stay private; the Apache-2.0 4.66B BF16 and vision-preserving NVFP4 releases are public.
 
-`PyTorch` `TRL` `LoRA / SFT` `Prime Intellect Verifiers` `GH200` `tool calling`
+`PyTorch` `TRL` `LoRA / SFT` `Prime Intellect Verifiers` `Hugging Face` `GH200` `DGX Spark / GB10` `NVFP4` `tool calling`
 
 ### [Lumbridge](https://lumbridgecorp.com)
 
@@ -66,7 +66,7 @@ An ambient voice-AI pair programmer that watches a shared engineering room and s
 ```text
 models & evals     PyTorch · TRL · LoRA/SFT · verifier-driven RL · dataset curation
 agent systems      tool calling · MCP · LiveKit · OpenCode · Claude Code · Codex
-runtime            vLLM · llama.cpp · CUDA · quantization · offline inference
+runtime            vLLM · SGLang · llama.cpp · CUDA · NVFP4 · quantization · offline inference
 systems            Rust · Python · TypeScript · Go · React · WebSockets · PostgreSQL
 infrastructure     Docker · Kubernetes · Caddy · Tailscale · Proxmox · GitHub Actions
 field work         discovery · solution architecture · POCs · integrations · production support
