@@ -14,7 +14,7 @@
 
 I work across the whole deployment loop: technical discovery, POCs and evals, model training, agent runtimes, GPU infrastructure, realtime interfaces, and the production traces that make the next iteration better.
 
-That range comes from operating across engineering, solutions, GTM, and production support—from Tesla and Labelbox through First Round and UW, into the systems I build today.
+That range comes from operating across engineering, solutions, GTM, and production support—from Tesla and Labelbox through UW, into the systems I build today.
 
 ```text
 customer problem → prototype → held-out eval → model / agent → governed runtime → production evidence
@@ -26,21 +26,21 @@ customer problem → prototype → held-out eval → model / agent → governed 
 
 ### Karti-Small Models
 
-[Karti-Small-RSI-3B](https://huggingface.co/KartiOS/Karti-Small-RSI-3B) targets reliable tool calling and offline agent workflows; [Karti-Small-VL-4B](https://huggingface.co/KartiOS/Karti-Small-VL-4B) adds vision grounding and abstention for unreadable identifiers. The 3B model card publishes its pinned foundation, BF16 LoRA SFT recipe, evaluation contract, and human-gated improvement loop while weights and training rows stay private; the Apache-2.0 4.66B BF16 and vision-preserving NVFP4 releases are public.
+[Karti-Small-Agent-3B](https://huggingface.co/KartiOS/Karti-Small-Agent-3B) targets reliable tool calling and offline agent workflows; [Karti-Small-VL-4B](https://huggingface.co/KartiOS/Karti-Small-VL-4B) adds vision grounding and abstention for unreadable identifiers. The 3B model card publishes its pinned foundation, BF16 LoRA SFT recipe, evaluation contract, and human-gated improvement loop while weights and training rows stay private; the Apache-2.0 4.66B BF16 and vision-preserving NVFP4 releases are public.
 
 `PyTorch` `TRL` `LoRA / SFT` `Prime Intellect Verifiers` `Hugging Face` `GH200` `DGX Spark / GB10` `NVFP4` `tool calling`
 
 ### [Lumbridge](https://lumbridgecorp.com)
 
-Compute and evaluation foundations paired with private agent worlds: governed unified-memory AI nodes, verifier-driven environments, deterministic simulation, presence, and workspace systems.
+Agents and platforms for small and mid-sized businesses in Southern California. Lumbridge connects the tools a business already runs into one live picture, puts agents to work on them with a person approving anything that sends, pays, books or deletes, and keeps it running on private compute.
 
-`Rust` `Python` `TypeScript` `React` `three.js` `MCP` `DGX Spark / GB10`
+`AI agents` `integrations` `private compute`
 
 ### [115 Trading](https://115trading.com)
 
-A personalized trading harness wrapped around one human trader: realtime market interfaces, Python/Rust execution, risk controls, a self-hosted data plane, MCP tools, and voice agents sharing one live operating picture.
+A hosted platform and lab for AI-native trading desks: research jobs that record the dataset, configuration and evidence for every run, a Python/Rust engine with prime-broker connectivity, an MCP server for agents, and an isolated NVIDIA deployment per team.
 
-`Python` `Rust` `React` `PostgreSQL` `WebSockets` `LiveKit` `MCP`
+`Python` `Rust` `MCP` `NVIDIA`
 
 ### [PodMan](https://podman.live)
 
@@ -82,6 +82,5 @@ field work         discovery · solution architecture · POCs · integrations ·
 <p align="center">
   <strong>Build the system. Measure the behavior. Improve the loop.</strong><br />
   <a href="https://karti.ai">karti.ai</a> ·
-  <a href="https://karti.ai/resume">resume</a> ·
-  <a href="mailto:kartitrip@gmail.com">email</a>
+  <a href="https://karti.ai/resume">resume</a>
 </p>
